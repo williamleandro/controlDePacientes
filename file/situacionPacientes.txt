@@ -1,0 +1,10 @@
+01A23 MKL345 Artrosis
+45OP8 WFG678 Gripe
+23U78 CVB610 Desviación_de_Columna
+34DC1 CVB610 Fractura_Tibia_Perone
+34DC1 CVB610 Fractura_Cubito
+34DC1 CVB610 Fractura_Clavicula
+34DC1 CVB610 Fractura_Omolplato
+34DC1 CVB610 Fractura_Metatarso
+34DC1 CVB610 Fractura_Tibia_Perone
+34DC1 CVB610 Fractura_Coxis
